@@ -156,7 +156,6 @@ body{
     }
     /* 모바일 디바이스 메인 */
     .main{
-        background: orange;
         overflow: hidden;
     }
     .box{
@@ -166,7 +165,6 @@ body{
         margin: 1em 2.5%;
     }
     .box1{
-        background: skyblue;
     }
 }
 /* 데스크탑 디바이스 */
@@ -210,7 +208,6 @@ body{
     }
     /* 데스크탑 메인 */
     .main{
-      background: yellow;
       display: grid;
       grid-template-areas: "box box box box";
       grid-auto-columns: 20%;
